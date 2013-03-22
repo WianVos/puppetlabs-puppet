@@ -1,5 +1,5 @@
 name 'puppetlabs-puppet'
-version ''
+version '1.0.0'
 
 author 'puppetlabs'
 license ''
